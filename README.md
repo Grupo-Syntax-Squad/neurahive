@@ -21,11 +21,19 @@ The Agile Methodology framework used in the product was Scrum, an adaptive, iter
 ## 🔌**Technologies**
 > [!NOTE]
 > These are the technologies used in the project's development:
-<h4 align="left"> 
- <span>
-  
- </span> 
- </h4> 
+
+<h4 align="left">
+ <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.shields.io/badge/TypeScript-2f74c0?style=for-the-badge&logo=TypeScript&logoColor=white" alt ='TypeScript'target="_blank"></a>
+ <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt='Python' target="_blank"></a>
+ <a href="https://expo.dev/" target="_blank"><img src="https://img.shields.io/badge/Expo-black?style=for-the-badge&logo=expo&logoColor=white" alt='Expo' target="_blank"></a>
+ <a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://img.shields.io/badge/FastApi-00A086.svg?style=for-the-badge&logo=fastapi&logoColor=white" alt='FastApi' target="_blank"></a>
+ <a href="https://www.postgresql.org/" target="_blank"><img src="https://img.shields.io/badge/postgresql-336791.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt='PostgreSQL' target="_blank"></a>
+ <a href="https://www.npmjs.com/" target="_blank"><img src="https://img.shields.io/badge/Npm-D50000?style=for-the-badge&logo=npm&logoColor=white" alt='NodeJS' target="_blank"></a>
+ <a href="https://www.nativewind.dev/" target="_blank"><img src="https://img.shields.io/badge/NativeWind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt='NativeWind' target="_blank"></a>
+ <a href="https://www.figma.com" target="_blank"><img src="https://img.shields.io/badge/-Figma-%23E4405F?style=for-the-badge&logo=Figma&logoColor=white" target="_blank"></a>
+ <a href="https://www.docker.com/" target="_blank"><img src="https://img.shields.io/badge/docker-1D63ED.svg?style=for-the-badge&logo=docker&logoColor=white" target="_blank"></a>
+ <a href="https://swagger.io/" target="_blank"><img src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white" target="_blank"></a>
+</h4>
  <br> 
  
  <span id="mvp"> 
