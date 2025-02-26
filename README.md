@@ -2,7 +2,7 @@
 
 ## 📌Project Objective 
 > [!IMPORTANT]
-> text here
+The aim of the project is to develop a platform for managing AI agents specialized in user-defined subjects, where it is possible to create, edit, register and view data on agents and users of the platform.
 
 
 > **Project Status: In Progress :construction:**
