@@ -11,7 +11,7 @@ The aim of the project is to develop a platform for managing AI agents specializ
 
  ## 💡Product Vision
 > [!TIP]
-> text here
+> The product will be a mobile application that allows users to interact with AI agents through an intelligent chat interface. Each user will only be able to view conversations and responses from the agents they have permission to access. The application will be integrated with a cloud database to store interactions securely and provide efficient management of agents and user permissions.
 
 ## 📚Methodology
 The Agile Methodology framework used in the product was Scrum, an adaptive, iterative, flexible, and effective agile method. One of the tools used in Scrum is dividing the project into **Sprints**. To determine our Sprint deliverables, we first defined our **MVP**, prioritizing tasks that provided the most value to the customer. From these tasks, we built the **Product Backlog**, which was approved by the client and divided into three Sprint Backlogs. With the tasks outlined, we estimated the time required for each one and optimized the workload distribution among the development team.  
