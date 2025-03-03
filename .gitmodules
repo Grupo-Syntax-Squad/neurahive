@@ -1,0 +1,12 @@
+[submodule "mobile-neurahive"]
+	path = mobile-neurahive
+	url = https://github.com/Grupo-Syntax-Squad/mobile-neurahive
+[submodule "service-neurahive"]
+	path = service-neurahive
+	url = https://github.com/Grupo-Syntax-Squad/service-neurahive
+[submodule "mobile"]
+	path = mobile
+	url = https://github.com/Grupo-Syntax-Squad/mobile-neurahive
+[submodule "service"]
+	path = service
+	url = https://github.com/Grupo-Syntax-Squad/service-neurahive
