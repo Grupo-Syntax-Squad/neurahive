@@ -43,6 +43,8 @@ The Agile Methodology framework used in the product was Scrum, an adaptive, iter
  <span id="mvp"> 
  
   ## 🏆**MVP** 
+  ![MVP](https://github.com/user-attachments/assets/1f067884-9186-45ab-9dc9-5d292b819391)
+
   
   <br>
   
