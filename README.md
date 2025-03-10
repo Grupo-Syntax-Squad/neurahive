@@ -5,9 +5,9 @@
   <a href="#objetivo">Wireframe </a>
 </p>
 
-**Start: xx/xx  - End: xx/xx**
+**Start: 05/05  - End: 25/05**
 
-**Status do Projeto: In Progress 🚧**
+**Project Status: In Progress 🚧**
 <br>
 
 ## 📉Burndown
