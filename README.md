@@ -7,7 +7,7 @@
 
 **Start: 10/03  - End: xx/xx**
 
-**Status do Projeto: In Progress 🚧**
+**Project Status: In Progress 🚧**
 <br>
 
 ## 📉Burndown
