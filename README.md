@@ -64,8 +64,10 @@ The Agile Methodology framework used in the product was Scrum, an adaptive, iter
  <br>
  
  ## 🧱Data Model
- 
- <p align="center"> 
+ <p align="center">
+  
+   ![image](https://github.com/user-attachments/assets/6dcc5af5-3087-41b0-ad3d-819ee1427714)
+
   <br> 
   
   ## 📜Commit Tags 
