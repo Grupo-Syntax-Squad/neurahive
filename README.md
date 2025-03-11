@@ -5,7 +5,7 @@
   <a href="#objetivo">Wireframe </a>
 </p>
 
-**Start: 10/03  - End: xx/xx**
+**Start: 10/03  - End: 30/03**
 
 **Project Status: In Progress 🚧**
 <br>
