@@ -62,9 +62,8 @@ The Agile Methodology framework used in the product was Scrum, an adaptive, iter
 
  ## 🌱Product Backlog 
 
-|       Item       |      US       |         Sprint            |            Prioridade          |      Points       |    Módulo    |
-| :--------------: | :-----------: | :-----------------------: | :----------------------------: | :---------------: | :----------: |
-| Wireframe do Projeto | --------- |            1              |              Alta              | ----------------- | Documentação |
+![Product backlog](https://github.com/user-attachments/assets/55522538-e26a-43fa-9c02-804afcd0fe71)
+
 
  
  <br>
