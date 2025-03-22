@@ -62,8 +62,7 @@ The Agile Methodology framework used in the product was Scrum, an adaptive, iter
 
  ## 🌱Product Backlog 
 
-![Product backlog](https://github.com/user-attachments/assets/55522538-e26a-43fa-9c02-804afcd0fe71)
-
+![Product backlog (1)](https://github.com/user-attachments/assets/4bab942e-11a0-487a-a1b4-7bf5316ea07d)
 
  
  <br>
