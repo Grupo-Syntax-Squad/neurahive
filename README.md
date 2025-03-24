@@ -82,7 +82,7 @@ The Agile Methodology framework used in the product was Scrum, an adaptive, iter
    
   </div>
 
-## 👨‍💻**Autores** 
+## 👨‍💻**Authors** 
 
 |      Nome      |    Função       |                            Github                             |                           Linkedin                           |
 | :--------------: | :-----------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
