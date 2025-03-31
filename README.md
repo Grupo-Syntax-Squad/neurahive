@@ -7,24 +7,18 @@
 
 **Start: 10/03  - End: 30/03**
 
-**Project Status: In Progress 🚧**
+**Sprint status: Done ✔️**
 <br>
-
-## 📉Burndown
-
-
-burndown image here
-
-</br>
 
 <span id="objetivo">
   
 ## 📌Sprint objectives
-the text here explaining what was developed in this sprint
+In this sprint we developed the management, authorization and authentication of users, and the management of permissions and agents.
 
  ## 📜Requirements
 
- - RF 0 - blablabla
+ - RF 2 - Agents CRUD
+ - RF 4 - CRUD of users and pemissions
  
 <br>
 
