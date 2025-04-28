@@ -7,24 +7,17 @@
 
 **Start: 07/04  - End: 27/04**
 
-**Project Status: In Progress 🚧**
-<br>
-
-## 📉Burndown
-
-
-burndown image here
-
-</br>
+**Project Status: Done ✔️**
 
 <span id="objetivo">
   
 ## 📌Sprint objectives
-the text here explaining what was developed in this sprint
+In this sprint we found the ideal model to use in our agent, designed the architecture of the chat connection between agent and user, and defined data input standards that will serve as the knowledge base for the AI.
 
  ## 📜Requirements
 
- - RF 0 - blablabla
+ - RF 2 - Agent treining standarts
+ - RF 4 - Chat for user-agent interaction
  
 <br>
 
