@@ -53,7 +53,7 @@ The Agile Methodology framework used in the product was Scrum, an adaptive, iter
   
   ## 📅Sprints
   ### Sprint - 1️⃣ 🎯 ([Click here](https://github.com/Grupo-Syntax-Squad/neurahive/tree/sprint-1)) Done ✔️
-  ### Sprint - 2️⃣ 🎯 ([Click here](https://github.com/Grupo-Syntax-Squad/neurahive/tree/sprint-2)) In Progress :construction:  
+  ### Sprint - 2️⃣ 🎯 ([Click here](https://github.com/Grupo-Syntax-Squad/neurahive/tree/sprint-2)) Done ✔️  
   ### Sprint - 3️⃣ 🎯 ([Click here](https://github.com/Grupo-Syntax-Squad/neurahive/tree/sprint-3)) In Progress :construction:  
   
 <br> 
