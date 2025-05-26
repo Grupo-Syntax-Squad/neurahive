@@ -7,24 +7,20 @@
 
 **Start: 05/05  - End: 25/05**
 
-**Project Status: In Progress 🚧**
+**Sprint status: Done ✔️**
 <br>
-
-## 📉Burndown
-
-
-burndown image here
 
 </br>
 
 <span id="objetivo">
   
 ## 📌Sprint objectives
-the text here explaining what was developed in this sprint
+In this sprint we developed chat history and interactions overview
 
  ## 📜Requirements
 
- - RF 0 - blablabla
+ - RF 5 - History of interactions between user and agent
+ - RF 6 - Administrative dashboard
  
 <br>
 
